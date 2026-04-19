@@ -18,3 +18,9 @@ To run the project on your local machine:
 3. Run the file via terminal or command prompt:
    ```bash
    python python_project_calculator.py
+   
+## 📚 References
+
+The following resources were used in the development of this project:
+
+* **Tutorial Video:** [YouTube - Python Tkinter Calculator Project](https://www.youtube.com/watch?v=28tj-IBfGH4&list=PLnKe36F30Y4bamRiO7AOYS1qGDv_2MGMW&index=5)
